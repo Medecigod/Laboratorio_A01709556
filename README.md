@@ -1,2 +1,1 @@
-# Act_3
-Repository para la actividad 3
+#Laboratorio de Github - Manuel Medécigo Sánchez
